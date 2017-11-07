@@ -18,6 +18,7 @@ put the data into use!
 
 This is what they asked you to do:
 1. The company founder wants to meet with some of the best customers to go through a focus group with them. You are asked to send the ID of the following customers to the founder:
+
 a. The customer who bought the most items overall in her lifetime
 
 b. For each item, the customer who bought that product the most
